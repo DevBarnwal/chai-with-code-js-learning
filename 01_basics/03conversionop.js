@@ -28,3 +28,15 @@ let somenumber=33
 let str=String(somenumber)
 console.log(typeof str) //string
 console.log(str)
+
+//*******************operations********************
+let str1="hello"
+let str2=" Dev"
+let str3=str1+str2 //hello Dev
+
+console.log(1+"2") //12
+console.log("1"+2)//12
+console.log(1+"2"+1) //121
+console.log(1+2+"2") //32
+console.log("1"+2+2) //122
+
